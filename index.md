@@ -1,13 +1,13 @@
-# Políticas de privacidad
+# Políticas de privacidad y términos del servicio
 
 Apps publicadas por TeckelSoft (Pedro Gallego Morales) en Google Play.
 
-| App | Política |
-|---|---|
-| FaceSpeak | [facespeak](facespeak/) |
-| PoemBox | [poembox](poembox/) |
-| RoadMate | [roadmate](roadmate/) |
-| Tarot Gitano | [gypsytarot](gypsytarot/) |
-| TDTFlow | [tdtflow](tdtflow/) |
+| App | Política de privacidad | Términos del servicio |
+|---|---|---|
+| FaceSpeak | [facespeak](facespeak/) | [términos](facespeak/terms/) |
+| PoemBox | [poembox](poembox/) | [términos](poembox/terms/) |
+| RoadMate | [roadmate](roadmate/) | — |
+| Tarot Gitano | [gypsytarot](gypsytarot/) | [términos](gypsytarot/terms/) |
+| TDTFlow | [tdtflow](tdtflow/) | [términos](tdtflow/terms/) |
 
 Contacto: pedro13087@gmail.com
